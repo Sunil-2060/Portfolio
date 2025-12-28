@@ -48,5 +48,6 @@ Architected a secure, centralized C# .NET desktop system for a national bank (2,
 
 Skills and deliverables : C#, Desktop Application, Legal Documentation, Compliance, Enterprise Software
 ![](https://www.upwork.com/att/download/portfolio/persons/uid/461195657981026304/profile/projects/files/c8d5e485-e4fa-4c1d-9690-5bbe2bdb47b8)
-
+[LoanDocs Technical Architecture & System Design ](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs%20Technical%20Architecture%20&%20System%20Design%20.pdf)
+[LoanDocs- Nationwide Loan Document System for a Major Bank](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs-%20Nationwide%20Loan%20Document%20System%20for%20a%20Major%20Bank.pdf)
 
