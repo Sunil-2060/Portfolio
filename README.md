@@ -43,6 +43,10 @@ My Upwork Profile :- https://www.upwork.com/freelancers/~01bea4725b699ec54b
 
 ## Portfolio
 
+## LoanDocs: Nationwide Loan Document System for a Major Bank
+Architected a secure, centralized C# .NET desktop system for a national bank (2,000+ branches) to streamline loan documentation. Eliminated errors and compliance risks via auto-populating, legally-approved templates. Enforced strict approval workflows with no post-approval edits or unauthorized printing. Optimized for low-bandwidth with ClickOnce deployment. In use for 15+ years, handling 80+ loan types with proven reliability, scalability, and minimal training overhead.
 
+Skills and deliverables : C#, Desktop Application, Legal Documentation, Compliance, Enterprise Software
+![](https://www.upwork.com/att/download/portfolio/persons/uid/461195657981026304/profile/projects/files/c8d5e485-e4fa-4c1d-9690-5bbe2bdb47b8)
 
 
