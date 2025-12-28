@@ -38,6 +38,7 @@ Let’s build something great together. Send me an invitation, and let’s discu
 The difference between a cheap developer and a senior architect often isn’t in the features you can see, but in the catastrophes you never see.
 
 While I'm newer to Upwork, I've maintained a 100% success rate with 50+ projects over 10 years on Guru.com. You can see my extensive portfolio and client reviews there to verify my track record there. 
+
 My Guru Profile :- https://www.guru.com/freelancers/sunil-2060
 My Upwork Profile :- https://www.upwork.com/freelancers/~01bea4725b699ec54b
 
@@ -48,6 +49,7 @@ Architected a secure, centralized C# .NET desktop system for a national bank (2,
 
 Skills and deliverables : C#, Desktop Application, Legal Documentation, Compliance, Enterprise Software
 ![](https://www.upwork.com/att/download/portfolio/persons/uid/461195657981026304/profile/projects/files/c8d5e485-e4fa-4c1d-9690-5bbe2bdb47b8)
+
 [LoanDocs Technical Architecture & System Design ](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs%20Technical%20Architecture%20&%20System%20Design%20.pdf)
 [LoanDocs- Nationwide Loan Document System for a Major Bank](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs-%20Nationwide%20Loan%20Document%20System%20for%20a%20Major%20Bank.pdf)
 
