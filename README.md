@@ -1,4 +1,4 @@
-# Sr Full-Stack Microsoft Dev | .NET, C#, SQL , Access & Office Expert
+# Sr Full-Stack Microsoft Dev | .NET, C#, SQL , Access & Office Automation Expert
 
 
 ### Your Trusted Partner for Business Software That Just Works
