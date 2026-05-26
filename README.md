@@ -53,3 +53,7 @@ Skills and deliverables : C#, Desktop Application, Legal Documentation, Complian
 [LoanDocs Technical Architecture & System Design ](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs%20Technical%20Architecture%20&%20System%20Design%20.pdf)
 [LoanDocs- Nationwide Loan Document System for a Major Bank](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs-%20Nationwide%20Loan%20Document%20System%20for%20a%20Major%20Bank.pdf)
 
+##Constrosoft: End-to-End ERP for Construction & Real Estate Development
+Designed and developed a full-featured ASP.NET ERP for construction project lifecycle management—from estimation to final sale. Includes dynamic cash flow projections, real-time cost control, strict approval workflows, and integrated sales/CRM. Built with C#, SQL Server, and Crystal Reports. Constrosoft empowers construction firms with financial clarity, operational control, and scalable architecture.
+
+Skills and deliverables : ERP Software, C#, ASP.NET, Construction Management Software, Microsoft SQL Server
