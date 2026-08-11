@@ -60,3 +60,11 @@ Skills and deliverables : ERP Software, C#, ASP.NET, Construction Management Sof
 [Constrosoft One Pager Technical Architecture & System Design ](https://github.com/Sunil-2060/Portfolio/blob/main/Constrosoft%20Writeup.pdf)
 [Constrosoft Process and Screenshots ](https://github.com/Sunil-2060/Portfolio/blob/main/Constrosoft%20Process%20and%20Screen%20shots.pdf)
 
+##PrintSmith: End-to-End ERP for the Printing Industry##
+I designed and developed this comprehensive ERP solution to digitize and streamline operations for printing businesses. The system manages the entire workflow from Sales Estimation & Quotations to Manufacturing Job Cards, Inventory Control, and Billing/Invoicing.
+It automated complex pricing, optimized paper usage, tracked jobs in real-time, and integrated financials with Tally. This replaced manual, error-prone processes with a centralized, paperless office, giving owners complete control and visibility over their business
+
+
+Skills and deliverables:- Visual Basic, ERP Software, Microsoft SQL Server, SAP Crystal Reports, Printing Press
+Workflow:- Presentation :-  Writeup:- 
+
