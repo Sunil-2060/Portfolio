@@ -53,16 +53,37 @@ Skills and deliverables : C#, Desktop Application, Legal Documentation, Complian
 [LoanDocs Technical Architecture & System Design ](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs%20Technical%20Architecture%20&%20System%20Design%20.pdf)
 [LoanDocs- Nationwide Loan Document System for a Major Bank](https://github.com/Sunil-2060/Portfolio/blob/main/LoanDocs-%20Nationwide%20Loan%20Document%20System%20for%20a%20Major%20Bank.pdf)
 
-##Constrosoft: End-to-End ERP for Construction & Real Estate Development
+**
+
+## Constrosoft: End-to-End ERP for Construction & Real Estate Development
+
+**
 Designed and developed a full-featured ASP.NET ERP for construction project lifecycle management—from estimation to final sale. Includes dynamic cash flow projections, real-time cost control, strict approval workflows, and integrated sales/CRM. Built with C#, SQL Server, and Crystal Reports. Constrosoft empowers construction firms with financial clarity, operational control, and scalable architecture.
 
 Skills and deliverables : ERP Software, C#, ASP.NET, Construction Management Software, Microsoft SQL Server
 [Constrosoft One Pager Technical Architecture & System Design ](https://github.com/Sunil-2060/Portfolio/blob/main/Constrosoft%20Writeup.pdf)
 [Constrosoft Process and Screenshots ](https://github.com/Sunil-2060/Portfolio/blob/main/Constrosoft%20Process%20and%20Screen%20shots.pdf)
 
-##PrintSmith: End-to-End ERP for the Printing Industry
+## PrintSmith: End-to-End ERP for the Printing Industry
+
 I designed and developed this comprehensive ERP solution to digitize and streamline operations for printing businesses. The system manages the entire workflow from Sales Estimation & Quotations to Manufacturing Job Cards, Inventory Control, and Billing/Invoicing. It automated complex pricing, optimized paper usage, tracked jobs in real-time, and integrated financials with Tally. This replaced manual, error-prone processes with a centralized, paperless office, giving owners complete control and visibility over their business
 
 Skills and deliverables:- Visual Basic, ERP Software, Microsoft SQL Server, SAP Crystal Reports, Printing Press
-Workflow:- (https://github.com/Sunil-2060/Portfolio/blob/main/PrintOffice%20FLowChart.jpg) Presentation :- (https://github.com/Sunil-2060/Portfolio/blob/main/SlidesPrintOffice.pdf)  Writeup:- (https://github.com/Sunil-2060/Portfolio/blob/main/PrintOffice.pdf)
 
+[Workflow ](https://github.com/Sunil-2060/Portfolio/blob/main/PrintOffice%20FlowChart.jpg)   [Presentation ](https://github.com/Sunil-2060/Portfolio/blob/main/SlidesPrintOffice.pdf)   [Writeup ](https://github.com/Sunil-2060/Portfolio/blob/main/PrintOffice.pdf)
+
+<![endif]-->
+
+## Award & Legal Documentation Automation Software
+<![endif]-->
+
+I developed a comprehensive software solution for law firms and banks to streamline complex legal workflows. The system automates the preparation of legal documents across multiple stages of arbitration, loan recovery, and family dispute cases.
+
+-   **One‑time data entry**: Case details are entered once and automatically flow into all required documents — notices, claims, affidavits, awards, petitions, and more.
+-   **Multi‑document generation**: Hundreds of documents can be generated, stitched together, and formatted for bulk printing in minutes.
+-   **Error handling & validation**: The system checks for missing or inconsistent information before documents are finalized.
+-   **Postal & tracking integration**: Generates postal department lists, bar‑coded stickers, and acknowledgement slips.
+-   **Court filing support**: Produces award filings, execution petitions, and decrees ready for submission.
+
+This solution has been deployed for law firms handling arbitration cases and for banks managing thousands of loan recovery files. It saves weeks of manual effort, reduces errors, and ensures compliance with legal processes.
+[Process Flow](https://github.com/Sunil-2060/Portfolio/blob/main/Award%20Process%20Flow.png)   [Screenshots ](https://github.com/Sunil-2060/Portfolio/blob/main/Award%20Montage.png)   [Writeup](https://github.com/Sunil-2060/Portfolio/blob/main/Award%20Technical.pdf)
